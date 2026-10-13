@@ -1,0 +1,14 @@
+Flat GitHub upload package
+
+1. Open your GitHub repository's main page.
+2. Choose Add file > Upload files.
+3. In File Explorer, open this folder and select the files INSIDE it (Ctrl+A).
+4. Click Open, wait until every file appears in the GitHub upload list, and click Commit changes.
+5. Confirm the repository root contains app.py, genai_analyzer.py,
+   cyber_threat_model.pkl, label_encoder.pkl, requirements.txt, and
+   cicids2017_portscan_demo.csv.
+
+All files in this package belong directly in the repository root.
+Select the files, not the outer AI-Cyber-Threat-Detection-Flat-Upload folder.
+The CSV is a labeled demo sample; upload it inside the running app to show predictions.
+For Streamlit Community Cloud, set the main file path to app.py.
